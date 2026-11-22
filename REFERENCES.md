@@ -37,8 +37,16 @@ These sources describe methods, obligations, and research with which the Unified
 - [OECD, Governing with Artificial Intelligence — implementation challenges](https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/implementation-challenges-that-hinder-the-strategic-use-of-ai-in-government_05cfe2bb.html)
 - [OECD, Digital Government Outlook 2026 — adopting and governing AI in government](https://www.oecd.org/en/publications/digital-government-outlook_0496b2bc-en/full-report/adopting-and-governing-ai-in-government_7ef312a9.html)
 
+## Related OECD.AI Wonk context — external publications
+
+The following OECD.AI Wonk articles are thematically relevant external context. They were not written by the Rationalization.AI / URF project, do not describe or endorse the framework, and are not entered in the submission form's singular “Related post on OECD.AI” field, which is reserved for a post directly related to the submitted tool.
+
+- [Investors matter for the future of trustworthy AI. Are they ready?](https://oecd.ai/en/wonk/investors-matter-for-the-future-of-trustworthy-ai-are-they-ready) — connects trustworthy-AI governance, information, lifecycle cost and accountability with investment and board decisions.
+- [A five-step roadmap to closing the AI evaluation gap](https://oecd.ai/en/wonk/a-five-step-roadmap-to-closing-the-ai-evaluation-gap) — provides context on lifecycle evaluation, evidence, context sensitivity, interoperability and multi-stakeholder input.
+- [Putting agentic AI systems to work: What practitioners reveal about deployment and governance](https://oecd.ai/en/wonk/putting-agentic-ai-systems-to-work-what-practitioners-reveal-about-deployment-and-governance) — provides practitioner context on deployment and governance of agentic AI systems.
+
 ## Interpretation boundary
 
-The sources above are complementary inputs. The proposed contribution of the Unified Rationalization Framework is to connect the decision about a real capability before a technology commitment, reuse existing evidence, keep non-AI and preservation options visible, and hand specialised issues to the regimes that properly govern them.
+The sources above are complementary inputs. Citation records relevance only; it does not imply authorship, adoption, validation or endorsement. The proposed contribution of the Unified Rationalization Framework is to connect the decision about a real capability before a technology commitment, reuse existing evidence, keep non-AI and preservation options visible, and hand specialised issues to the regimes that properly govern them.
 
 The [research-lineage note](docs/RESEARCH_LINEAGE.md) records how internal historical and methodological material was filtered into the public package without publishing private correspondence, customer evidence, speculative numerical illustrations, or unpublished third-party material.
