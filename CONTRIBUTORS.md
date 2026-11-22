@@ -14,6 +14,14 @@ Independent board and executive-governance contribution received on 20 November 
 
 The original correspondence and source documents remain in the private IMSV evidence dossier. Their inclusion here is attributed to Andrea Slingsby; it does not imply endorsement by any company, exchange, regulator, OECD, GPAI, or other institution.
 
+Andrea's original nine-page contribution is published in the [public annex register](annexes/README.md) exactly as received at content level, with a normalised repository filename and a recorded SHA-256 digest.
+
+## Project contribution
+
+**Carmen Vargas Carrera — project contributor**
+
+Carmen Vargas Carrera contributes to project development, practical review, and stakeholder-facing work. This credit records her contribution to the project without assigning authorship of a particular technical section that has not been separately documented. Any specific authored material incorporated in a future release will be separately attributed and versioned.
+
 ## Review in progress, not part of G0.11
 
 **Mark Ritcey — independent banking and cybersecurity applicability review**
@@ -23,6 +31,7 @@ A review is in progress and pending receipt. It is expected to consider the meth
 ## Contribution principles
 
 - Each substantive contribution is attributed to its contributor and version.
+- Project-level credit does not replace specific authorship credit for a document, method, dataset, or review.
 - Practitioner observations are not presented as completed empirical validation.
 - Participation in a discussion, reference group, or review does not imply institutional adoption or endorsement.
 - Private correspondence and evidence are not published unless their owner and the steward authorise publication.
@@ -31,3 +40,5 @@ A review is in progress and pending receipt. It is expected to consider the meth
 ## Contact
 
 For framework discussion and contribution routing: **ivan.abril@tegrity.ai**
+
+The controlled submission-facing attribution is maintained in [docs/SUBMISSION_REPORT.md](docs/SUBMISSION_REPORT.md).

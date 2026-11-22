@@ -15,6 +15,7 @@ These sources describe methods, obligations, and research with which the Unified
 
 - [OECD AI Principles and Recommendation on Artificial Intelligence](https://oecd.ai/en/assets/files/OECD-LEGAL-0449-en.pdf)
 - [OECD.AI Catalogue of Tools & Metrics submission route](https://oecd.ai/en/catalogue/tools/submit)
+- [OECD.AI Tools & Metrics FAQ — listing and endorsement boundaries](https://oecd.ai/en/tools-faq)
 - [NIST AI Risk Management Framework Playbook — MAP](https://airc.nist.gov/airmf-resources/playbook/map/)
 - [European Union Artificial Intelligence Act, Regulation (EU) 2024/1689](https://eur-lex.europa.eu/eli/reg/2024/1689)
 - [ISO/IEC 42001 — AI management systems](https://www.iso.org/standard/42001)
@@ -39,3 +40,5 @@ These sources describe methods, obligations, and research with which the Unified
 ## Interpretation boundary
 
 The sources above are complementary inputs. The proposed contribution of the Unified Rationalization Framework is to connect the decision about a real capability before a technology commitment, reuse existing evidence, keep non-AI and preservation options visible, and hand specialised issues to the regimes that properly govern them.
+
+The [research-lineage note](docs/RESEARCH_LINEAGE.md) records how internal historical and methodological material was filtered into the public package without publishing private correspondence, customer evidence, speculative numerical illustrations, or unpublished third-party material.

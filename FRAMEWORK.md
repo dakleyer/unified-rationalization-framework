@@ -1,5 +1,7 @@
 # Unified Rationalization Framework — G0.11
 
+Rationalization.AI is the specific evidence-led technique contributed by Iván Abril Palma and stewarded through IMSV. The Unified Rationalization Framework is the broader proposed structure within which that technique and other competent methods can support a shared decision. The names are related but not interchangeable.
+
 ## 1. Purpose
 
 Unified rationalization is a way to reach one coherent, accountable decision about a real capability when several professions, systems, organisations, or jurisdictions are involved. It does not require one universal process, vendor, database, or compulsory sequence.
@@ -118,6 +120,8 @@ A proportionate record should identify:
 - lifecycle costs, dependencies, benefits, and risks that materially affect the decision; and
 - review date, milestones, escalation, correction, and stopping conditions.
 
+A reusable public record is provided in [docs/DECISION_RECORD_TEMPLATE.md](docs/DECISION_RECORD_TEMPLATE.md).
+
 ## 10. Relationship with existing methods
 
 The framework is an integrating perspective. It can work with application-portfolio management, enterprise architecture, capability management, process improvement, investment governance, COBIT, TOGAF and ArchiMate, ISO enterprise-modelling and governance guidance, NIST AI RMF, ISO/IEC 42001 and 42005, the OECD AI Principles, and applicable law.
@@ -137,3 +141,5 @@ G0.11 is suitable for structured field evaluation, not a claim of completed vali
 - transfers useful capability across organisations without erasing local context or responsibility.
 
 Evaluation should include counterexamples, failed transfers, sector-specific constraints, and cases where an existing method already provides a sufficient answer.
+
+The [controlled field-evaluation protocol](docs/EVALUATION_PROTOCOL.md) defines a competent comparator, core measures, failure conditions, rights safeguards, and a release gate for reporting results. The [research-lineage note](docs/RESEARCH_LINEAGE.md) states which propositions came from earlier work and which remain prospective.

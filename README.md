@@ -1,8 +1,8 @@
 # Unified Rationalization Framework
 
-**Rationalization.AI** is a platform-neutral governance method for deciding what an organisation should preserve, improve, reuse, scale, integrate, consolidate, change, retire, or defer before it commits to an artificial-intelligence solution.
+**Rationalization.AI** is a specific, evidence-led decision technique for deciding what an organisation should preserve, improve, reuse, scale, integrate, consolidate, change, retire, or defer before it commits to an artificial-intelligence solution.
 
-The framework treats AI as one possible response to a real organisational need, not as the starting assumption. It brings business value, people, working knowledge, processes, information, applications, technology, rights, obligations, and decision authority into one proportionate review.
+The **Unified Rationalization Framework (URF)** is the broader proposed, platform-neutral structure through which Rationalization.AI and other competent methods can contribute to one accountable decision. It treats AI as one possible response to a real organisational need, not as the starting assumption, and brings business value, people, working knowledge, processes, information, applications, technology, rights, obligations, and decision authority into one proportionate review.
 
 ## Why this exists
 
@@ -30,6 +30,8 @@ Unified rationalization creates one accountable view of that capability. It comp
 
 These are perspectives on one decision, not seven new audits.
 
+![Seven connected views of one rationalization decision](docs/images/urf-seven-views.png)
+
 ## Board and executive decision tests
 
 G0.11 incorporates an independent board and executive-governance contribution by **Andrea Slingsby**, ASX Non-Executive Director and former CEO. The contribution adds six tests to existing board papers, investment processes, and risk reporting:
@@ -42,6 +44,8 @@ G0.11 incorporates an independent board and executive-governance contribution by
 6. When do we continue, change, or stop?
 
 An independent banking and cybersecurity applicability review by **Mark Ritcey** is in progress and pending receipt. It is not part of G0.11. Any later incorporation will be separately attributed and versioned.
+
+**Carmen Vargas Carrera** is a project contributor supporting project development, practical review, and stakeholder-facing work. Specific authored material, if incorporated in a future release, will be separately attributed and versioned.
 
 ## Stewardship and stakeholder engagement
 
@@ -58,9 +62,21 @@ The initiative is stewarded by **The Integral Management Society (IMSV), Geneva,
 ## Repository guide
 
 - [FRAMEWORK.md](FRAMEWORK.md) explains the complete G0.11 method and its use.
+- [docs/README.md](docs/README.md) provides the complete documentation map and visual overview.
+- [docs/DECISION_RECORD_TEMPLATE.md](docs/DECISION_RECORD_TEMPLATE.md) is the working record for one real capability decision.
+- [docs/EVALUATION_PROTOCOL.md](docs/EVALUATION_PROTOCOL.md) defines comparators, measures, counterexamples, reporting rules, and the release gate for field evaluation.
+- [docs/RESEARCH_LINEAGE.md](docs/RESEARCH_LINEAGE.md) distinguishes historical practice, the 2025 research programme, the 2026 method, and evidence still to be produced.
+- [docs/SCIENTIFIC_ANNEX.md](docs/SCIENTIFIC_ANNEX.md) explains Rationalization.AI as a specific technique, its rationale, process, propositions, evidence boundary, and evaluation design.
+- [docs/SUBMISSION_REPORT.md](docs/SUBMISSION_REPORT.md) is the controlled attribution and status sheet for the OECD.AI submission draft.
+- [annexes/README.md](annexes/README.md) indexes the prepared G0.11 paper, Andrea Slingsby's original contribution, the scientific annex, the submission report, and the reproducible working materials.
+- [docs/GLOSSARY.md](docs/GLOSSARY.md) gives plain-language definitions.
 - [CONTRIBUTORS.md](CONTRIBUTORS.md) records attribution and contribution status.
 - [STATUS.md](STATUS.md) states readiness, institutional boundaries, and version limits.
 - [REFERENCES.md](REFERENCES.md) identifies the public methods and sources with which the framework is designed to interoperate.
+
+## Public annexes
+
+The annex register separates prepared project documents from independently authored contributions. It includes the 14-page canonical G0.11 discussion paper and the nine-page contribution received from **Andrea Slingsby**, preserved as received and attributed to her with a verifiable SHA-256 digest. The private email that transmitted the contribution is not published.
 
 ## Current status and rights
 

@@ -13,6 +13,8 @@
 
 G0.11 is a documented procedural method suitable for expert review, catalogue assessment, comparison with related methods, and controlled practical evaluation. It is not represented as a finished international standard or as a statistically validated product.
 
+The public package includes the core method, a scientific annex explaining Rationalization.AI as a specific technique, a submission-attribution report, a decision-record template, a controlled evaluation protocol, a research-lineage and evidence-boundary note, a plain-language glossary, public references, diagrams, contributor attribution, institutional status, the prepared G0.11 paper, and Andrea Slingsby's independently authored contribution.
+
 ## Institutional boundaries
 
 This repository:
@@ -27,6 +29,7 @@ This repository:
 ## Contribution state
 
 - Andrea Slingsby's independent board and executive-governance contribution is integrated and attributed in G0.11.
+- Carmen Vargas Carrera is credited as a project contributor supporting project development, practical review, and stakeholder-facing work. No undocumented technical authorship is assigned.
 - Mark Ritcey's independent banking and cybersecurity review is in progress and pending receipt; it is not included in G0.11.
 - Agentic AI Industry Reference Group engagement is identified as stakeholder and practitioner participation, not ownership of the framework.
 
@@ -41,3 +44,7 @@ No open-source or reuse licence has yet been granted. Public visibility permits 
 3. Define practical evaluation cases, comparators, failure conditions, and evidence requirements.
 4. Incorporate accepted contributions through explicit attribution and version control.
 5. Decide future governance and licensing through the legitimate participants.
+
+## Completeness boundary
+
+This repository is complete for the G0.11 public discussion package. Completion means that the public method, its working template, evaluation design, research lineage, definitions, references, diagrams, attribution, status, and rights boundary are present. It does not mean that pending reviews, field evaluations, an OECD.AI submission decision, institutional adoption, or future licensing have been completed.
