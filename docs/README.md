@@ -1,6 +1,6 @@
 # Documentation guide
 
-This folder turns the Unified Rationalization Framework (URF) G0.11 discussion draft into a reviewable and usable public package. It does not publish IMSV's private correspondence, customer evidence, internal workbooks, or unpublished third-party material.
+This folder turns the Unified Rationalization Framework (URF) G0.12 discussion draft into a reviewable and usable public package. It does not publish IMSV's private correspondence, customer evidence, internal workbooks, or unpublished third-party material.
 
 ## Start here
 
@@ -26,7 +26,7 @@ A branded presentation version of the seven-view model is also available at [ima
 
 | File | Purpose |
 | --- | --- |
-| [Framework](../FRAMEWORK.md) | Core G0.11 method, decision range, lifecycle use and evaluation agenda |
+| [Framework](../FRAMEWORK.md) | Core G0.12 method, decision range, lifecycle use and evaluation agenda |
 | [Decision record template](DECISION_RECORD_TEMPLATE.md) | A practical record for a real capability decision |
 | [Evaluation protocol](EVALUATION_PROTOCOL.md) | Comparative research design, measures, failure conditions and reporting rules |
 | [Research lineage](RESEARCH_LINEAGE.md) | Documentary origin, revisions and claim boundaries |
@@ -40,4 +40,4 @@ A branded presentation version of the seven-view model is also available at [ima
 
 ## Use boundary
 
-G0.11 is a public discussion draft. The documentation supports review and controlled evaluation. It does not demonstrate that the framework is more effective than competent existing methods, and it does not confer an open licence or imply adoption by OECD.AI, GPAI, a standards body, a client, or a reference group.
+G0.12 is a public discussion draft. The documentation supports review and controlled evaluation. It does not demonstrate that the framework is more effective than competent existing methods, and it does not confer an open licence or imply adoption by OECD.AI, GPAI, a standards body, a client, or a reference group.

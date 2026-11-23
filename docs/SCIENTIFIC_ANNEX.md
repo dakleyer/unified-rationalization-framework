@@ -1,7 +1,7 @@
 # Scientific annex — Rationalization.AI as a decision technique
 
-**Version:** G0.11 public discussion annex  
-**Date:** 22 November 2026  
+**Version:** G0.12 public discussion annex
+**Date:** 23 November 2026
 **Steward:** The Integral Management Society (IMSV), Geneva, Switzerland
 
 ## Abstract
@@ -119,26 +119,26 @@ Candidate measures include alternative coverage, evidence provenance, owner and 
 Three evidence classes remain separate:
 
 - documented historical practice;
-- the later methodological abstraction represented by G0.11; and
+- the later methodological abstraction represented by G0.12; and
 - prospective comparative evaluation.
 
-G0.11 is a public discussion draft. It is not a completed validation, an international standard, a certification scheme or proof of legal conformity. Preparation for an OECD.AI catalogue submission and engagement with practitioners do not imply OECD, GPAI, standards-body, client or reference-group adoption or endorsement.
+G0.12 is a public discussion draft. It is not a completed validation, an international standard, a certification scheme or proof of legal conformity. Preparation for an OECD.AI catalogue submission and engagement with practitioners do not imply OECD, GPAI, standards-body, client or reference-group adoption or endorsement.
 
 ## 8. Contribution and governance
 
 The technique is proposed by **Iván Abril Palma** and stewarded through **The Integral Management Society (IMSV)**, with public research and implementation context from **Tegrity.AI** and **JubAp.eu**.
 
-G0.11 incorporates the independent board and executive-governance contribution of **Andrea Slingsby**. **Carmen Vargas Carrera** contributes to project development, practical review and stakeholder-facing work. An independent banking and cybersecurity applicability review by **Mark Ritcey** is pending and is not treated as incorporated evidence until received and evaluated.
+The principal G0.12 framework document is co-authored by **Iván Abril Palma and Carmen Vargas Carrera**. G0.12 incorporates the independent board and executive-governance contribution of **Andrea Slingsby** and the independently authored banking and financial-services applicability contribution of **Mark Ritcey**, VP of AI & Automation Delivery, LatentBridge plc. Mark's related FG-TIDA UC21/S4 Banking Impact Note remains a separately indexed companion workstream rather than evidence of completed URF validation.
 
 The detailed contribution states and institutional boundaries are recorded in the [submission report](SUBMISSION_REPORT.md) and [contributors file](../CONTRIBUTORS.md).
 
-The [public annex register](../annexes/README.md) also preserves Andrea Slingsby's independently authored contribution and the prepared G0.11 discussion paper with provenance and integrity digests.
+The [public annex register](../annexes/README.md) preserves Andrea Slingsby's independently authored contribution, Mark Ritcey's two original practitioner contributions and the prepared discussion paper with provenance and integrity digests.
 
 ## 9. Reproducible public materials
 
 The repository provides:
 
-- the [G0.11 framework](../FRAMEWORK.md);
+- the [G0.12 framework](../FRAMEWORK.md);
 - a [decision-record template](DECISION_RECORD_TEMPLATE.md);
 - a [controlled evaluation protocol](EVALUATION_PROTOCOL.md);
 - the [research lineage and evidence boundary](RESEARCH_LINEAGE.md);

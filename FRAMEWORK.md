@@ -1,6 +1,6 @@
-# Unified Rationalization Framework — G0.11
+# Unified Rationalization Framework — G0.12
 
-Rationalization.AI is the specific evidence-led technique contributed by Iván Abril Palma and stewarded through IMSV. The Unified Rationalization Framework is the broader proposed structure within which that technique and other competent methods can support a shared decision. The names are related but not interchangeable.
+Rationalization.AI is the specific evidence-led technique proposed by Iván Abril Palma. This principal G0.12 framework document is co-authored by **Iván Abril Palma and Carmen Vargas Carrera** and stewarded through IMSV. The Unified Rationalization Framework is the broader proposed structure within which that technique and other competent methods can support a shared decision. The names are related but not interchangeable.
 
 ## 1. Purpose
 
@@ -95,7 +95,15 @@ The five questions structure the inquiry. The six tests introduced through Andre
 
 These tests belong in existing board papers, investment decisions, and risk reporting. They should not become a parallel approval bureaucracy.
 
-## 8. Lifecycle use
+## 8. Banking and financial-services applicability
+
+Mark Ritcey's independent banking and financial-services contribution tests the framework against regulated-bank decisions and an explicitly hypothetical corporate-client onboarding and KYC scenario. Regulation is treated as a set of non-functional requirements that every credible option must meet, not as an automatic instruction to preserve, replace, consolidate or automate. Options that survive those requirements still need comparative evidence of value, full lifecycle cost, feasibility, organisational readiness and residual risk.
+
+The contribution also identifies failure chains that can make an apparently efficient change fail in practice: lost tacit requirements, exceptions excluded from the automated path, data errors propagated at scale, users bypassing a design that does not fit their work, and downstream finance, risk or regulatory dependencies that cannot absorb changes in format, timing or meaning. The companion FG-TIDA UC21/S4 banking note provides a separate practitioner test of aggregate authority and preservation of material findings. It remains a distinct workstream and is not presented as completed URF validation.
+
+**Attribution:** Banking and financial services perspective contributed by **Mark Ritcey, VP of AI & Automation Delivery, LatentBridge plc**. Views are the author's own. Both source notes are hypothetical and anonymised and are preserved in the [public annex register](annexes/README.md).
+
+## 9. Lifecycle use
 
 The framework is most valuable before procurement, model selection, or deployment, but the decision remains live:
 
@@ -105,7 +113,7 @@ The framework is most valuable before procurement, model selection, or deploymen
 4. **Implement and operate:** maintain ownership, authorised scope, significant exceptions, dependencies, and benefits accountability.
 5. **Review and adapt:** continue, improve, scale, change, stop, or retire according to the evidence and review conditions.
 
-## 9. Minimum decision record
+## 10. Minimum decision record
 
 A proportionate record should identify:
 
@@ -122,15 +130,15 @@ A proportionate record should identify:
 
 A reusable public record is provided in [docs/DECISION_RECORD_TEMPLATE.md](docs/DECISION_RECORD_TEMPLATE.md).
 
-## 10. Relationship with existing methods
+## 11. Relationship with existing methods
 
 The framework is an integrating perspective. It can work with application-portfolio management, enterprise architecture, capability management, process improvement, investment governance, COBIT, TOGAF and ArchiMate, ISO enterprise-modelling and governance guidance, NIST AI RMF, ISO/IEC 42001 and 42005, the OECD AI Principles, and applicable law.
 
 Its specific role is upstream and cross-disciplinary: identify what the decision actually concerns, bring together only the existing methods and evidence it requires, keep the full range of choices open, and hand selected options into the regimes that properly govern them.
 
-## 11. Evaluation agenda
+## 12. Evaluation agenda
 
-G0.11 is suitable for structured field evaluation, not a claim of completed validation. Comparative work should examine whether the method:
+G0.12 is suitable for structured field evaluation, not a claim of completed validation. Comparative work should examine whether the method:
 
 - improves the quality and traceability of capability decisions;
 - exposes material dependencies, rights, and risks earlier;

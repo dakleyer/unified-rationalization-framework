@@ -2,8 +2,8 @@
 
 ## Release
 
-- **Version:** G0.11
-- **Date:** 22 November 2026
+- **Version:** G0.12
+- **Date:** 23 November 2026
 - **State:** public discussion draft
 - **Origin:** Switzerland
 - **Organisation:** The Integral Management Society (IMSV)
@@ -11,9 +11,9 @@
 
 ## Readiness
 
-G0.11 is a documented procedural method suitable for expert review, catalogue assessment, comparison with related methods, and controlled practical evaluation. It is not represented as a finished international standard or as a statistically validated product.
+G0.12 is a documented procedural method suitable for expert review, catalogue assessment, comparison with related methods, and controlled practical evaluation. It is not represented as a finished international standard or as a statistically validated product.
 
-The public package includes the core method, a scientific annex explaining Rationalization.AI as a specific technique, a submission-attribution report, a decision-record template, a controlled evaluation protocol, a research-lineage and evidence-boundary note, a plain-language glossary, public references, diagrams, contributor attribution, institutional status, the prepared G0.11 paper, and Andrea Slingsby's independently authored contribution.
+The public package includes the core method, a scientific annex explaining Rationalization.AI as a specific technique, a submission-attribution report, a decision-record template, a controlled evaluation protocol, a research-lineage and evidence-boundary note, a plain-language glossary, public references, diagrams, contributor attribution, institutional status, the canonical G0.12 co-authored paper, its superseded G0.11 export retained for provenance, Andrea Slingsby's independently authored contribution, and Mark Ritcey's two independently authored banking practitioner notes.
 
 ## Institutional boundaries
 
@@ -28,9 +28,9 @@ This repository:
 
 ## Contribution state
 
-- Andrea Slingsby's independent board and executive-governance contribution is integrated and attributed in G0.11.
-- Carmen Vargas Carrera is credited as a project contributor supporting project development, practical review, and stakeholder-facing work. No undocumented technical authorship is assigned.
-- Mark Ritcey's independent banking and cybersecurity review is in progress and pending receipt; it is not included in G0.11.
+- Iván Abril Palma and Carmen Vargas Carrera are co-authors of the principal Rationalization.AI / Unified Rationalization Framework G0.12 document; independently authored annexes retain their own attribution.
+- Andrea Slingsby's independent board and executive-governance contribution is integrated and attributed.
+- Mark Ritcey's OECD.AI banking and financial-services applicability note is integrated and attributed in G0.12. His FG-TIDA UC21/S4 Banking Impact Note is published as a distinct companion workstream and is not merged into URF conclusions.
 - Agentic AI Industry Reference Group engagement is identified as stakeholder and practitioner participation, not ownership of the framework.
 
 ## Rights
@@ -47,4 +47,4 @@ No open-source or reuse licence has yet been granted. Public visibility permits 
 
 ## Completeness boundary
 
-This repository is complete for the G0.11 public discussion package. Completion means that the public method, its working template, evaluation design, research lineage, definitions, references, diagrams, attribution, status, and rights boundary are present. It does not mean that pending reviews, field evaluations, an OECD.AI submission decision, institutional adoption, or future licensing have been completed.
+This repository is complete for the G0.12 public discussion package. Completion means that the public method, its working template, evaluation design, research lineage, definitions, references, diagrams, attribution, status, and rights boundary are present. It does not mean that field evaluations, an OECD.AI submission decision, institutional adoption, or future licensing have been completed.

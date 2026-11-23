@@ -6,27 +6,29 @@
 
 Public research and implementation context is provided through **Tegrity.AI** and **JubAp.eu**. Stakeholder and practitioner engagement includes the **Agentic AI Industry Reference Group**.
 
-## G0.11 independent contribution
+## Principal document co-authorship
+
+**Iván Abril Palma and Carmen Vargas Carrera — co-authors of the principal Rationalization.AI / Unified Rationalization Framework G0.12 document**
+
+Iván Abril Palma proposed the Rationalization.AI technique and leads the methodological synthesis. Carmen Vargas Carrera is co-author of the principal framework document and contributes to its development, practical interpretation, stakeholder-facing formulation and collective-development presentation. This co-authorship applies to the principal G0.12 document; independently authored annexes retain their own authors and attribution.
+
+## Independent board and executive-governance contribution
 
 **Andrea Slingsby — ASX Non-Executive Director and former CEO**
 
-Independent board and executive-governance contribution received on 20 November 2026 and integrated into G0.11. The contribution strengthens the framework's treatment of business outcomes, capital allocation, full lifecycle cost, organisational readiness, executive accountability, benefits realisation, and continuation or stopping conditions.
+Independent board and executive-governance contribution received on 20 November 2026 and integrated into the framework. The contribution strengthens the framework's treatment of business outcomes, capital allocation, full lifecycle cost, organisational readiness, executive accountability, benefits realisation, and continuation or stopping conditions.
 
 The original correspondence and source documents remain in the private IMSV evidence dossier. Their inclusion here is attributed to Andrea Slingsby; it does not imply endorsement by any company, exchange, regulator, OECD, GPAI, or other institution.
 
 Andrea's original nine-page contribution is published in the [public annex register](annexes/README.md) exactly as received at content level, with a normalised repository filename and a recorded SHA-256 digest.
 
-## Project contribution
+## Independent banking and financial-services contribution
 
-**Carmen Vargas Carrera — project contributor**
+**Mark Ritcey — VP of AI & Automation Delivery, LatentBridge plc**
 
-Carmen Vargas Carrera contributes to project development, practical review, and stakeholder-facing work. This credit records her contribution to the project without assigning authorship of a particular technical section that has not been separately documented. Any specific authored material incorporated in a future release will be separately attributed and versioned.
+Two written practitioner contributions were received on 23 November 2026: an OECD.AI / URF banking and financial-services applicability note and a separate FG-TIDA UC21/S4 Banking Impact Note. The OECD.AI note is integrated into the G0.12 applicability discussion. The UC21/S4 note is preserved and indexed as a distinct companion workstream rather than merged into the framework's conclusions.
 
-## Review in progress, not part of G0.11
-
-**Mark Ritcey — independent banking and cybersecurity applicability review**
-
-A review is in progress and pending receipt. It is expected to consider the method's applicability in banking and cybersecurity environments. No written contribution from Mark Ritcey is included in G0.11. Any future material will be evaluated, separately attributed, and introduced through a later version if appropriate.
+Attribution requested by the contributor: **“Banking and financial services perspective contributed by Mark Ritcey, VP of AI & Automation Delivery, LatentBridge plc. Views are the author's own.”** Both notes are explicitly hypothetical and anonymised and contain no confidential information according to the contributor.
 
 ## Contribution principles
 

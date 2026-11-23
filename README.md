@@ -34,7 +34,7 @@ These are perspectives on one decision, not seven new audits.
 
 ## Board and executive decision tests
 
-G0.11 incorporates an independent board and executive-governance contribution by **Andrea Slingsby**, ASX Non-Executive Director and former CEO. The contribution adds six tests to existing board papers, investment processes, and risk reporting:
+G0.12 incorporates an independent board and executive-governance contribution by **Andrea Slingsby**, ASX Non-Executive Director and former CEO. The contribution adds six tests to existing board papers, investment processes, and risk reporting:
 
 1. What problem are we solving?
 2. Have we considered the alternatives?
@@ -43,9 +43,9 @@ G0.11 incorporates an independent board and executive-governance contribution by
 5. Who is accountable, and what are the authorised boundaries?
 6. When do we continue, change, or stop?
 
-An independent banking and cybersecurity applicability review by **Mark Ritcey** is in progress and pending receipt. It is not part of G0.11. Any later incorporation will be separately attributed and versioned.
+Two independent practitioner contributions by **Mark Ritcey**, VP of AI & Automation Delivery at LatentBridge plc, were received on 23 November 2026. His OECD.AI banking and financial-services applicability note is integrated into G0.12; his FG-TIDA UC21/S4 Banking Impact Note remains a separately indexed companion workstream. Views are the author's own.
 
-**Carmen Vargas Carrera** is a project contributor supporting project development, practical review, and stakeholder-facing work. Specific authored material, if incorporated in a future release, will be separately attributed and versioned.
+**Iván Abril Palma and Carmen Vargas Carrera are co-authors of the principal Rationalization.AI / Unified Rationalization Framework G0.12 document.** Iván proposed the technique and leads the methodological synthesis; Carmen contributes to the principal document's development, practical interpretation, stakeholder-facing formulation and collective-development presentation.
 
 ## Stewardship and stakeholder engagement
 
@@ -61,14 +61,14 @@ The initiative is stewarded by **The Integral Management Society (IMSV), Geneva,
 
 ## Repository guide
 
-- [FRAMEWORK.md](FRAMEWORK.md) explains the complete G0.11 method and its use.
+- [FRAMEWORK.md](FRAMEWORK.md) explains the complete G0.12 method and its use.
 - [docs/README.md](docs/README.md) provides the complete documentation map and visual overview.
 - [docs/DECISION_RECORD_TEMPLATE.md](docs/DECISION_RECORD_TEMPLATE.md) is the working record for one real capability decision.
 - [docs/EVALUATION_PROTOCOL.md](docs/EVALUATION_PROTOCOL.md) defines comparators, measures, counterexamples, reporting rules, and the release gate for field evaluation.
 - [docs/RESEARCH_LINEAGE.md](docs/RESEARCH_LINEAGE.md) distinguishes historical practice, the 2025 research programme, the 2026 method, and evidence still to be produced.
 - [docs/SCIENTIFIC_ANNEX.md](docs/SCIENTIFIC_ANNEX.md) explains Rationalization.AI as a specific technique, its rationale, process, propositions, evidence boundary, and evaluation design.
 - [docs/SUBMISSION_REPORT.md](docs/SUBMISSION_REPORT.md) is the controlled attribution and status sheet for the OECD.AI submission draft.
-- [annexes/README.md](annexes/README.md) indexes the prepared G0.11 paper, Andrea Slingsby's original contribution, the scientific annex, the submission report, and the reproducible working materials.
+- [annexes/README.md](annexes/README.md) indexes the prepared framework papers, Andrea Slingsby's original contribution, Mark Ritcey's two original practitioner contributions, the scientific annex, the submission report, and the reproducible working materials.
 - [docs/GLOSSARY.md](docs/GLOSSARY.md) gives plain-language definitions.
 - [CONTRIBUTORS.md](CONTRIBUTORS.md) records attribution and contribution status.
 - [STATUS.md](STATUS.md) states readiness, institutional boundaries, and version limits.
@@ -76,10 +76,10 @@ The initiative is stewarded by **The Integral Management Society (IMSV), Geneva,
 
 ## Public annexes
 
-The annex register separates prepared project documents from independently authored contributions. It includes the 14-page canonical G0.11 discussion paper and the nine-page contribution received from **Andrea Slingsby**, preserved as received and attributed to her with a verifiable SHA-256 digest. The private email that transmitted the contribution is not published.
+The annex register separates prepared project documents from independently authored contributions. It includes the canonical G0.12 co-authored discussion paper, its superseded G0.11 export retained for provenance, the nine-page contribution received from **Andrea Slingsby**, and the two PowerPoint contributions received from **Mark Ritcey**. Original contribution files are preserved as received and indexed with verifiable SHA-256 digests. Private transmitting emails are not published.
 
 ## Current status and rights
 
-**G0.11, 22 November 2026 — public discussion draft.** This is not an adopted OECD.AI or GPAI standard, an OECD endorsement, a completed comparative validation, or a claim of regulatory conformity. It is being prepared for submission to the OECD.AI Catalogue of Tools & Metrics and for collective refinement and practical evaluation.
+**G0.12, 23 November 2026 — public discussion draft.** This is not an adopted OECD.AI or GPAI standard, an OECD endorsement, a completed comparative validation, or a claim of regulatory conformity. It is being prepared for submission to the OECD.AI Catalogue of Tools & Metrics and for collective refinement and practical evaluation.
 
 No open-source or reuse licence has yet been granted. The material is public for review and discussion; future reuse terms will be stated in a later release.

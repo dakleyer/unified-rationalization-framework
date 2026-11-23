@@ -56,7 +56,7 @@ The project keeps three classes separate:
 | Class | What it contains | What it can support |
 | --- | --- | --- |
 | Historical practice | Documented observations from enterprise work | Plausibility and design insight |
-| Method abstraction | The G0.11 framework, templates and diagrams | Expert review and controlled use |
+| Method abstraction | The G0.12 framework, templates and diagrams | Expert review and controlled use |
 | Prospective evaluation | Comparative cases and measures still to be conducted | Future findings about reproducibility, decision quality and operational value |
 
 No finding in the third class is claimed until a study is completed and reported with its limitations.
@@ -75,7 +75,7 @@ These internal documents are listed for provenance only. Their private comments,
 
 ## 7. Claims deliberately excluded
 
-G0.11 does not claim:
+G0.12 does not claim:
 
 - a completed multi-centre or 250-participant study;
 - universal savings, exponential complexity reduction or a validated maturity score;
